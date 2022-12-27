@@ -4,6 +4,17 @@ In this project, we are attempting the problem of Fake Review Detection on the Y
 
 We optimize the sytem performance by experimenting with various combination/aggregation techniques, which allowed us to leverage the strengths of both rule-based and machine-learning methods and enabled us to achieve enhanced results.
 
+
+
+
+## Data
+
+The preprocessed training data can be found in the file **new_data_train.csv** and the test data can be found in the file **new_data_test.csv**. 
+
+The complete dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1U35JaRIE71512aF5m2S5zP2FuJMo5tDp/view?usp=sharing)
+
+
+
 ## References
 [
 Collective Opinion Spam Detection: Bridging Review Networks and Metadata](http://shebuti.com/wp-content/uploads/2016/06/15-kdd-collectiveopinionspam.pdf) Shebuti Rayana, Leman Akoglu, ACM SIGKDD, Sydney, Australia, August 10-13, 2015
