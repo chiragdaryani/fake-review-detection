@@ -1,4 +1,4 @@
-# CMPUT-627-project
+# Fake Reviews Detection
 
 ### Detecting Fake Reviews by Feature Engineering and Machine Learning
 
