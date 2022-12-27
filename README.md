@@ -9,6 +9,8 @@ We optimize the sytem performance by experimenting with various combination/aggr
 
 ## Data
 
+Our project uses the YelpZip dataset, which contains about 608,598 reviews from Yelp.com1. These reviews are written for 5,044 restaurants and are written by 260,277 reviewers. It contains features like the text of the review, the date when the review was written, user information, product information, rating given by the user to the product, etc. Based on the anti-fraud filter that Yelp uses, each of the reviews has been labeled as either genuine or fake. We would use these labels as the ground truth for our experiments.
+
 The preprocessed training data can be found in the file [new_data_train.csv](/new_data_train.csv) and the test data can be found in the file [new_data_test.csv](/new_data_test.csv). 
 
 The original unprocessed dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1U35JaRIE71512aF5m2S5zP2FuJMo5tDp/view?usp=sharing)
