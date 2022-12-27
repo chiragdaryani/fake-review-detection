@@ -1,7 +1,8 @@
 # Fake Reviews Detection
 
-In this project, we are attempting the problem of Fake Review Detection on the Yelp restaurant review dataset. We explore rule-based, machine learning and aggregation based approaches. The rules were based on our data analysis. For machine learning we consider dealing with textual and non-textual features separately. To get the best of both rule-base and machine learning, we explore different combination/aggregation mechaniisms in our project implementation.  
+In this project, we are attempting the problem of Fake Review Detection on the Yelp restaurant review dataset. We explore rule-based, machine learning and aggregation based approaches. The rules were based on our data analysis. For machine learning we consider dealing with textual and non-textual features separately. 
 
+We optimize the sytem performance by experimenting with various combination/aggregation techniques, which allowed us to leverage the strengths of both rule-based and machine-learning methods and enabled us to achieve enhanced results.
 
 ## References
 [
