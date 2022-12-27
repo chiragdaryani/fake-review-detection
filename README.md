@@ -23,26 +23,12 @@ Collective Opinion Spam Detection: Bridging Review Networks and Metadata](http:/
 
 http://odds.cs.stonybrook.edu/yelpzip-dataset/
 
-https://stackoverflow.com/questions/41592661/determining-the-most-contributing-features-for-svm-classifier-in-sklearn
-
 https://arxiv.org/pdf/2203.09936.pdf
-
-https://www.nltk.org/
-
-https://scikit-learn.org/stable/
-
-https://scikit-learn.org/stable/modules/grid_search.html
-
-https://github.com/chiragdaryani/rating-humor-from-text
 
 https://ieeexplore.ieee.org/document/9320592/;
 
 https://dl.acm.org/doi/10.5555/2935490
 
-https://scikit-learn.org/stable/modules/permutation_importance.html
-
 https://github.com/darshandagly/Fake-Review-Detection/blob/master/Code/main.py
 
 https://www.semanticscholar.org/paper/A-Novel-Approach-for-Opinion-Spam-Detectionin-Shirin-Erfan/f79347cdff7f669568ec56dd1e5e76c517ea9046
-
-https://mljar.com/blog/visualize-decision-tree/
